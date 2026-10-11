@@ -1,0 +1,501 @@
+creator_id,creator_name,platform,niche,language,location,audience_segment,followers,avg_views,engagement_rate,rate_inr,content_description
+CR0001,Creator 001,Instagram,gaming,Kannada,United States,general,34559,16501,5.33,500,gaming creator making Kannada-language content for general
+CR0002,Creator 002,Instagram,lifestyle,Telugu,India,general,23877,14523,5.52,627,lifestyle creator making Telugu-language content for general
+CR0003,Creator 003,TikTok,lifestyle,English,Singapore,students,37199,16369,5.52,977,lifestyle creator making English-language content for students
+CR0004,Creator 004,Instagram,finance,Hindi,Malaysia,young professionals,14874,1561,5.0,500,finance creator making Hindi-language content for young professionals
+CR0005,Creator 005,YouTube,parenting,English,India,parents,13506,2539,5.12,500,parenting creator making English-language content for parents
+CR0006,Creator 006,YouTube,technology,Telugu,India,tech buyers,57224,14766,2.44,1440,technology creator making Telugu-language content for tech buyers
+CR0007,Creator 007,Instagram,gaming,Hindi,United States,students,66313,5583,5.22,1430,gaming creator making Hindi-language content for students
+CR0008,Creator 008,Instagram,travel,English,United States,general,14172,2058,3.79,500,travel creator making English-language content for general
+CR0009,Creator 009,YouTube,travel,English,India,general,29353,7433,5.27,500,travel creator making English-language content for general
+CR0010,Creator 010,Instagram,education,Hindi,United States,young professionals,5613,1349,2.82,500,education creator making Hindi-language content for young professionals
+CR0011,Creator 011,Instagram,food,Tamil,India,parents,49982,8755,4.89,500,food creator making Tamil-language content for parents
+CR0012,Creator 012,YouTube,parenting,English,India,general,14188,6766,4.92,500,parenting creator making English-language content for general
+CR0013,Creator 013,YouTube,parenting,Hindi,Malaysia,students,3496,2196,2.22,500,parenting creator making Hindi-language content for students
+CR0014,Creator 014,Instagram,beauty,Malayalam,India,tech buyers,16160,3800,2.8,500,beauty creator making Malayalam-language content for tech buyers
+CR0015,Creator 015,Instagram,lifestyle,Hindi,India,fitness enthusiasts,40118,22797,3.31,1131,lifestyle creator making Hindi-language content for fitness enthusiasts
+CR0016,Creator 016,YouTube,education,English,India,fitness enthusiasts,153590,48689,1.26,1331,education creator making English-language content for fitness enthusiasts
+CR0017,Creator 017,Instagram,technology,English,India,fitness enthusiasts,130979,79545,1.84,3260,technology creator making English-language content for fitness enthusiasts
+CR0018,Creator 018,TikTok,food,English,India,general,4485,570,4.67,500,food creator making English-language content for general
+CR0019,Creator 019,Instagram,lifestyle,Tamil,Singapore,young professionals,2096,789,2.98,500,lifestyle creator making Tamil-language content for young professionals
+CR0020,Creator 020,Instagram,fitness,Hindi,United States,general,20283,9394,1.69,500,fitness creator making Hindi-language content for general
+CR0021,Creator 021,Instagram,gaming,English,United Kingdom,beauty consumers,75368,7636,2.42,1260,gaming creator making English-language content for beauty consumers
+CR0022,Creator 022,YouTube,beauty,Kannada,India,beauty consumers,8618,3219,4.78,500,beauty creator making Kannada-language content for beauty consumers
+CR0023,Creator 023,Instagram,parenting,Malayalam,India,beauty consumers,5946,3012,4.46,500,parenting creator making Malayalam-language content for beauty consumers
+CR0024,Creator 024,TikTok,fitness,Tamil,India,fitness enthusiasts,31328,4193,5.86,671,fitness creator making Tamil-language content for fitness enthusiasts
+CR0025,Creator 025,YouTube,education,Malayalam,India,tech buyers,162521,29608,2.53,3074,education creator making Malayalam-language content for tech buyers
+CR0026,Creator 026,YouTube,fitness,Tamil,India,beauty consumers,51012,8265,4.19,500,fitness creator making Tamil-language content for beauty consumers
+CR0027,Creator 027,Instagram,beauty,Telugu,United States,general,2303,947,2.94,500,beauty creator making Telugu-language content for general
+CR0028,Creator 028,Instagram,food,English,Malaysia,students,25215,7731,4.93,500,food creator making English-language content for students
+CR0029,Creator 029,YouTube,parenting,Tamil,India,beauty consumers,20380,8079,3.86,500,parenting creator making Tamil-language content for beauty consumers
+CR0030,Creator 030,YouTube,technology,Telugu,India,fitness enthusiasts,440248,237067,1.52,9403,technology creator making Telugu-language content for fitness enthusiasts
+CR0031,Creator 031,Instagram,beauty,Malayalam,India,tech buyers,10525,4026,0.98,500,beauty creator making Malayalam-language content for tech buyers
+CR0032,Creator 032,Instagram,technology,Tamil,United Kingdom,fitness enthusiasts,8880,3007,1.56,500,technology creator making Tamil-language content for fitness enthusiasts
+CR0033,Creator 033,YouTube,lifestyle,English,Singapore,students,687506,112282,2.25,16219,lifestyle creator making English-language content for students
+CR0034,Creator 034,YouTube,technology,Tamil,India,young professionals,40134,5852,4.0,500,technology creator making Tamil-language content for young professionals
+CR0035,Creator 035,TikTok,travel,Malayalam,India,fitness enthusiasts,41867,10937,4.43,754,travel creator making Malayalam-language content for fitness enthusiasts
+CR0036,Creator 036,Instagram,beauty,English,India,young professionals,21766,6905,6.56,500,beauty creator making English-language content for young professionals
+CR0037,Creator 037,TikTok,technology,Malayalam,United Kingdom,students,95780,13073,4.92,2260,technology creator making Malayalam-language content for students
+CR0038,Creator 038,TikTok,gaming,English,India,fitness enthusiasts,32967,5165,3.76,565,gaming creator making English-language content for fitness enthusiasts
+CR0039,Creator 039,YouTube,gaming,English,India,fitness enthusiasts,18538,2959,4.64,500,gaming creator making English-language content for fitness enthusiasts
+CR0040,Creator 040,TikTok,finance,Kannada,India,parents,65736,30953,4.11,1090,finance creator making Kannada-language content for parents
+CR0041,Creator 041,Instagram,food,English,India,general,94279,42611,6.82,2590,food creator making English-language content for general
+CR0042,Creator 042,YouTube,education,Hindi,United States,young professionals,75964,43345,5.37,1098,education creator making Hindi-language content for young professionals
+CR0043,Creator 043,Instagram,travel,Hindi,United States,beauty consumers,56409,35343,4.1,1693,travel creator making Hindi-language content for beauty consumers
+CR0044,Creator 044,Instagram,education,Tamil,India,young professionals,7587,1018,2.38,500,education creator making Tamil-language content for young professionals
+CR0045,Creator 045,TikTok,gaming,Hindi,India,general,1745,934,4.31,500,gaming creator making Hindi-language content for general
+CR0046,Creator 046,YouTube,finance,Hindi,Singapore,students,3948,1257,4.75,500,finance creator making Hindi-language content for students
+CR0047,Creator 047,TikTok,gaming,Tamil,India,young professionals,31874,8262,2.9,500,gaming creator making Tamil-language content for young professionals
+CR0048,Creator 048,YouTube,technology,English,Malaysia,tech buyers,21083,12936,3.08,619,technology creator making English-language content for tech buyers
+CR0049,Creator 049,Instagram,lifestyle,Tamil,United States,beauty consumers,65206,36828,5.03,1661,lifestyle creator making Tamil-language content for beauty consumers
+CR0050,Creator 050,YouTube,education,English,Singapore,general,27558,6844,1.8,500,education creator making English-language content for general
+CR0051,Creator 051,YouTube,travel,Telugu,Malaysia,students,33446,19436,0.73,600,travel creator making Telugu-language content for students
+CR0052,Creator 052,YouTube,technology,Tamil,United States,fitness enthusiasts,11364,6719,5.34,500,technology creator making Tamil-language content for fitness enthusiasts
+CR0053,Creator 053,Instagram,education,Tamil,United Kingdom,beauty consumers,62542,6292,4.98,500,education creator making Tamil-language content for beauty consumers
+CR0054,Creator 054,Instagram,beauty,Telugu,United Kingdom,tech buyers,4427,2375,3.18,500,beauty creator making Telugu-language content for tech buyers
+CR0055,Creator 055,YouTube,technology,Malayalam,United States,students,22482,11347,4.05,549,technology creator making Malayalam-language content for students
+CR0056,Creator 056,Instagram,education,Tamil,India,young professionals,8766,5598,5.41,500,education creator making Tamil-language content for young professionals
+CR0057,Creator 057,Instagram,food,Kannada,United States,fitness enthusiasts,20936,2769,5.59,500,food creator making Kannada-language content for fitness enthusiasts
+CR0058,Creator 058,Instagram,lifestyle,Hindi,India,fitness enthusiasts,19582,12125,4.74,500,lifestyle creator making Hindi-language content for fitness enthusiasts
+CR0059,Creator 059,YouTube,technology,Tamil,India,young professionals,87709,27216,4.0,1586,technology creator making Tamil-language content for young professionals
+CR0060,Creator 060,YouTube,gaming,English,India,parents,83924,37072,4.7,1568,gaming creator making English-language content for parents
+CR0061,Creator 061,Instagram,parenting,Hindi,United States,students,6734,2358,3.76,500,parenting creator making Hindi-language content for students
+CR0062,Creator 062,Instagram,travel,English,India,fitness enthusiasts,17553,9282,5.13,500,travel creator making English-language content for fitness enthusiasts
+CR0063,Creator 063,Instagram,lifestyle,English,India,tech buyers,31462,19034,4.34,728,lifestyle creator making English-language content for tech buyers
+CR0064,Creator 064,YouTube,fitness,Tamil,India,general,9142,1106,5.12,500,fitness creator making Tamil-language content for general
+CR0065,Creator 065,YouTube,finance,Malayalam,India,parents,17069,1508,1.45,500,finance creator making Malayalam-language content for parents
+CR0066,Creator 066,YouTube,gaming,Telugu,United States,students,10642,6665,0.2,500,gaming creator making Telugu-language content for students
+CR0067,Creator 067,YouTube,finance,English,India,parents,4043,348,4.35,500,finance creator making English-language content for parents
+CR0068,Creator 068,Instagram,parenting,Tamil,India,beauty consumers,68356,38161,2.74,2266,parenting creator making Tamil-language content for beauty consumers
+CR0069,Creator 069,TikTok,lifestyle,Tamil,India,tech buyers,129741,45087,3.19,1495,lifestyle creator making Tamil-language content for tech buyers
+CR0070,Creator 070,YouTube,technology,Tamil,United Kingdom,parents,4021,1665,3.39,500,technology creator making Tamil-language content for parents
+CR0071,Creator 071,Instagram,travel,English,India,fitness enthusiasts,32364,16662,3.82,500,travel creator making English-language content for fitness enthusiasts
+CR0072,Creator 072,Instagram,fitness,Malayalam,United Kingdom,general,37903,21439,4.64,856,fitness creator making Malayalam-language content for general
+CR0073,Creator 073,Instagram,travel,Malayalam,India,general,5818,813,3.43,500,travel creator making Malayalam-language content for general
+CR0074,Creator 074,Instagram,fitness,English,India,young professionals,68542,41718,3.96,1507,fitness creator making English-language content for young professionals
+CR0075,Creator 075,Instagram,technology,English,Singapore,fitness enthusiasts,32903,21045,4.48,863,technology creator making English-language content for fitness enthusiasts
+CR0076,Creator 076,Instagram,beauty,Telugu,India,beauty consumers,1523,874,3.76,500,beauty creator making Telugu-language content for beauty consumers
+CR0077,Creator 077,YouTube,food,Telugu,India,beauty consumers,31912,7795,2.37,727,food creator making Telugu-language content for beauty consumers
+CR0078,Creator 078,YouTube,travel,Kannada,United States,tech buyers,5579,3580,3.42,500,travel creator making Kannada-language content for tech buyers
+CR0079,Creator 079,YouTube,beauty,Tamil,India,general,105410,63992,1.85,3183,beauty creator making Tamil-language content for general
+CR0080,Creator 080,Instagram,parenting,Telugu,India,fitness enthusiasts,7409,3860,2.06,500,parenting creator making Telugu-language content for fitness enthusiasts
+CR0081,Creator 081,YouTube,technology,Hindi,India,fitness enthusiasts,12015,992,3.54,500,technology creator making Hindi-language content for fitness enthusiasts
+CR0082,Creator 082,YouTube,gaming,Malayalam,India,fitness enthusiasts,15163,8583,2.64,500,gaming creator making Malayalam-language content for fitness enthusiasts
+CR0083,Creator 083,Instagram,technology,English,United Kingdom,young professionals,17033,3183,3.92,500,technology creator making English-language content for young professionals
+CR0084,Creator 084,Instagram,gaming,Kannada,India,parents,257967,40755,2.29,4647,gaming creator making Kannada-language content for parents
+CR0085,Creator 085,YouTube,food,Tamil,India,beauty consumers,29408,4604,6.97,500,food creator making Tamil-language content for beauty consumers
+CR0086,Creator 086,Instagram,parenting,Telugu,India,fitness enthusiasts,8960,2863,6.02,500,parenting creator making Telugu-language content for fitness enthusiasts
+CR0087,Creator 087,Instagram,fitness,Telugu,India,young professionals,22162,13256,1.78,523,fitness creator making Telugu-language content for young professionals
+CR0088,Creator 088,Instagram,lifestyle,English,United States,young professionals,10711,1805,5.45,500,lifestyle creator making English-language content for young professionals
+CR0089,Creator 089,TikTok,gaming,Telugu,United States,general,20091,12998,5.14,553,gaming creator making Telugu-language content for general
+CR0090,Creator 090,Instagram,technology,English,India,general,14031,6344,6.45,500,technology creator making English-language content for general
+CR0091,Creator 091,Instagram,finance,English,India,students,1827,402,3.03,500,finance creator making English-language content for students
+CR0092,Creator 092,YouTube,lifestyle,Tamil,India,students,18364,2102,4.11,500,lifestyle creator making Tamil-language content for students
+CR0093,Creator 093,Instagram,technology,English,India,students,51256,29306,5.25,594,technology creator making English-language content for students
+CR0094,Creator 094,Instagram,travel,Tamil,United States,tech buyers,53562,12233,2.67,724,travel creator making Tamil-language content for tech buyers
+CR0095,Creator 095,YouTube,finance,Hindi,India,parents,130660,14070,3.95,1927,finance creator making Hindi-language content for parents
+CR0096,Creator 096,Instagram,education,Tamil,India,beauty consumers,19617,3675,4.44,500,education creator making Tamil-language content for beauty consumers
+CR0097,Creator 097,YouTube,beauty,Hindi,United States,fitness enthusiasts,95404,7890,1.41,2195,beauty creator making Hindi-language content for fitness enthusiasts
+CR0098,Creator 098,YouTube,beauty,Kannada,United Kingdom,young professionals,8715,2954,3.75,500,beauty creator making Kannada-language content for young professionals
+CR0099,Creator 099,YouTube,travel,English,India,tech buyers,65073,13230,4.86,986,travel creator making English-language content for tech buyers
+CR0100,Creator 100,YouTube,fitness,Telugu,Singapore,students,3130,1544,3.37,500,fitness creator making Telugu-language content for students
+CR0101,Creator 101,TikTok,beauty,English,India,students,115061,54661,3.1,1602,beauty creator making English-language content for students
+CR0102,Creator 102,Instagram,travel,Malayalam,India,beauty consumers,22210,3383,5.54,555,travel creator making Malayalam-language content for beauty consumers
+CR0103,Creator 103,YouTube,finance,Telugu,India,students,20461,5074,2.32,500,finance creator making Telugu-language content for students
+CR0104,Creator 104,Instagram,lifestyle,English,United States,beauty consumers,82298,35234,4.26,1777,lifestyle creator making English-language content for beauty consumers
+CR0105,Creator 105,Instagram,beauty,Tamil,India,tech buyers,86247,27511,2.33,1647,beauty creator making Tamil-language content for tech buyers
+CR0106,Creator 106,TikTok,parenting,Tamil,India,students,13635,4160,4.67,500,parenting creator making Tamil-language content for students
+CR0107,Creator 107,TikTok,parenting,Telugu,India,beauty consumers,127190,25555,3.28,2079,parenting creator making Telugu-language content for beauty consumers
+CR0108,Creator 108,TikTok,education,Tamil,United Kingdom,tech buyers,21263,11190,0.2,500,education creator making Tamil-language content for tech buyers
+CR0109,Creator 109,YouTube,travel,Kannada,United States,students,8703,4385,6.34,500,travel creator making Kannada-language content for students
+CR0110,Creator 110,Instagram,gaming,English,Singapore,parents,21866,9336,4.75,500,gaming creator making English-language content for parents
+CR0111,Creator 111,Instagram,education,Tamil,India,young professionals,13860,4222,4.25,500,education creator making Tamil-language content for young professionals
+CR0112,Creator 112,YouTube,finance,Tamil,India,young professionals,52394,26694,2.04,1573,finance creator making Tamil-language content for young professionals
+CR0113,Creator 113,Instagram,education,Kannada,India,general,15245,1612,4.13,500,education creator making Kannada-language content for general
+CR0114,Creator 114,TikTok,beauty,Malayalam,Malaysia,young professionals,2559,1320,3.87,500,beauty creator making Malayalam-language content for young professionals
+CR0115,Creator 115,Instagram,travel,Tamil,India,students,6324,1603,4.63,500,travel creator making Tamil-language content for students
+CR0116,Creator 116,Instagram,travel,Hindi,India,young professionals,12818,2196,4.26,500,travel creator making Hindi-language content for young professionals
+CR0117,Creator 117,YouTube,lifestyle,Kannada,Singapore,parents,4163,2165,4.35,500,lifestyle creator making Kannada-language content for parents
+CR0118,Creator 118,YouTube,fitness,English,United States,young professionals,5605,1021,2.59,500,fitness creator making English-language content for young professionals
+CR0119,Creator 119,YouTube,travel,Tamil,Malaysia,beauty consumers,92146,35253,2.76,1308,travel creator making Tamil-language content for beauty consumers
+CR0120,Creator 120,Instagram,education,English,India,tech buyers,27920,10041,3.95,559,education creator making English-language content for tech buyers
+CR0121,Creator 121,YouTube,technology,Hindi,India,beauty consumers,24512,15278,5.95,500,technology creator making Hindi-language content for beauty consumers
+CR0122,Creator 122,YouTube,fitness,English,India,students,71777,18897,4.52,1459,fitness creator making English-language content for students
+CR0123,Creator 123,TikTok,lifestyle,Tamil,India,beauty consumers,35818,18006,4.77,746,lifestyle creator making Tamil-language content for beauty consumers
+CR0124,Creator 124,YouTube,parenting,Telugu,Singapore,parents,10733,4668,3.47,500,parenting creator making Telugu-language content for parents
+CR0125,Creator 125,Instagram,beauty,Tamil,India,fitness enthusiasts,7687,4967,4.15,500,beauty creator making Tamil-language content for fitness enthusiasts
+CR0126,Creator 126,Instagram,finance,Telugu,India,fitness enthusiasts,17584,10646,4.53,500,finance creator making Telugu-language content for fitness enthusiasts
+CR0127,Creator 127,Instagram,education,Hindi,India,general,4772,1313,4.9,500,education creator making Hindi-language content for general
+CR0128,Creator 128,YouTube,beauty,Kannada,United States,beauty consumers,4842,2208,3.75,500,beauty creator making Kannada-language content for beauty consumers
+CR0129,Creator 129,Instagram,lifestyle,English,India,general,21456,7940,5.35,611,lifestyle creator making English-language content for general
+CR0130,Creator 130,Instagram,food,Hindi,India,general,15113,1999,4.2,500,food creator making Hindi-language content for general
+CR0131,Creator 131,YouTube,lifestyle,Hindi,India,young professionals,5883,3356,3.45,500,lifestyle creator making Hindi-language content for young professionals
+CR0132,Creator 132,Instagram,beauty,English,Malaysia,young professionals,16525,9896,4.71,500,beauty creator making English-language content for young professionals
+CR0133,Creator 133,Instagram,finance,English,India,young professionals,1983,520,4.19,500,finance creator making English-language content for young professionals
+CR0134,Creator 134,YouTube,finance,Malayalam,India,beauty consumers,13265,4417,5.68,500,finance creator making Malayalam-language content for beauty consumers
+CR0135,Creator 135,Instagram,food,Kannada,Malaysia,fitness enthusiasts,54358,11915,3.06,1433,food creator making Kannada-language content for fitness enthusiasts
+CR0136,Creator 136,Instagram,parenting,Tamil,India,tech buyers,5837,2065,4.36,500,parenting creator making Tamil-language content for tech buyers
+CR0137,Creator 137,YouTube,food,Malayalam,India,fitness enthusiasts,27892,5710,3.97,670,food creator making Malayalam-language content for fitness enthusiasts
+CR0138,Creator 138,YouTube,food,Tamil,Malaysia,tech buyers,7095,1127,6.37,500,food creator making Tamil-language content for tech buyers
+CR0139,Creator 139,YouTube,parenting,Kannada,India,young professionals,8520,3690,6.18,500,parenting creator making Kannada-language content for young professionals
+CR0140,Creator 140,YouTube,beauty,Telugu,India,young professionals,40033,18341,4.37,500,beauty creator making Telugu-language content for young professionals
+CR0141,Creator 141,Instagram,beauty,Kannada,India,general,12264,5543,5.39,500,beauty creator making Kannada-language content for general
+CR0142,Creator 142,Instagram,technology,Tamil,India,beauty consumers,42990,14740,6.06,751,technology creator making Tamil-language content for beauty consumers
+CR0143,Creator 143,Instagram,gaming,Telugu,India,tech buyers,54493,17301,3.01,808,gaming creator making Telugu-language content for tech buyers
+CR0144,Creator 144,YouTube,beauty,English,India,young professionals,18462,2488,4.32,500,beauty creator making English-language content for young professionals
+CR0145,Creator 145,YouTube,education,Telugu,India,general,24430,2439,3.85,500,education creator making Telugu-language content for general
+CR0146,Creator 146,Instagram,beauty,English,India,tech buyers,2181,1192,3.81,500,beauty creator making English-language content for tech buyers
+CR0147,Creator 147,YouTube,beauty,Tamil,United States,general,25407,8762,4.21,500,beauty creator making Tamil-language content for general
+CR0148,Creator 148,TikTok,finance,English,India,students,53831,9686,3.62,1281,finance creator making English-language content for students
+CR0149,Creator 149,YouTube,technology,Malayalam,India,general,12762,7386,4.37,500,technology creator making Malayalam-language content for general
+CR0150,Creator 150,Instagram,parenting,Telugu,India,parents,16030,6457,1.94,500,parenting creator making Telugu-language content for parents
+CR0151,Creator 151,Instagram,parenting,Telugu,India,fitness enthusiasts,16024,3658,1.34,500,parenting creator making Telugu-language content for fitness enthusiasts
+CR0152,Creator 152,YouTube,finance,Hindi,India,young professionals,28880,7491,4.83,557,finance creator making Hindi-language content for young professionals
+CR0153,Creator 153,Instagram,travel,English,Singapore,beauty consumers,4999,889,4.75,500,travel creator making English-language content for beauty consumers
+CR0154,Creator 154,YouTube,fitness,Tamil,India,young professionals,57678,11041,7.14,1200,fitness creator making Tamil-language content for young professionals
+CR0155,Creator 155,YouTube,travel,English,India,young professionals,13917,7937,4.05,500,travel creator making English-language content for young professionals
+CR0156,Creator 156,YouTube,parenting,Tamil,India,fitness enthusiasts,34273,20096,3.47,1105,parenting creator making Tamil-language content for fitness enthusiasts
+CR0157,Creator 157,TikTok,food,English,India,students,1831,933,6.19,500,food creator making English-language content for students
+CR0158,Creator 158,TikTok,education,Tamil,India,parents,44468,18178,3.34,1194,education creator making Tamil-language content for parents
+CR0159,Creator 159,YouTube,lifestyle,Tamil,United Kingdom,parents,26889,4113,3.01,500,lifestyle creator making Tamil-language content for parents
+CR0160,Creator 160,TikTok,travel,Kannada,India,parents,7696,2508,3.4,500,travel creator making Kannada-language content for parents
+CR0161,Creator 161,YouTube,beauty,Hindi,India,general,4050,1390,6.48,500,beauty creator making Hindi-language content for general
+CR0162,Creator 162,Instagram,travel,Tamil,United States,students,23287,11461,3.48,500,travel creator making Tamil-language content for students
+CR0163,Creator 163,TikTok,travel,Tamil,India,tech buyers,21315,8963,5.19,512,travel creator making Tamil-language content for tech buyers
+CR0164,Creator 164,YouTube,parenting,Hindi,United States,fitness enthusiasts,37384,3812,4.24,728,parenting creator making Hindi-language content for fitness enthusiasts
+CR0165,Creator 165,TikTok,beauty,English,India,general,2005,166,5.39,500,beauty creator making English-language content for general
+CR0166,Creator 166,TikTok,education,English,Malaysia,young professionals,62807,32766,3.54,1366,education creator making English-language content for young professionals
+CR0167,Creator 167,Instagram,lifestyle,Tamil,India,young professionals,11377,6604,2.75,500,lifestyle creator making Tamil-language content for young professionals
+CR0168,Creator 168,YouTube,gaming,English,United States,beauty consumers,18237,5876,2.71,500,gaming creator making English-language content for beauty consumers
+CR0169,Creator 169,Instagram,education,English,United States,young professionals,11199,6477,5.05,500,education creator making English-language content for young professionals
+CR0170,Creator 170,Instagram,gaming,English,India,fitness enthusiasts,10151,4392,4.17,500,gaming creator making English-language content for fitness enthusiasts
+CR0171,Creator 171,Instagram,travel,English,Malaysia,young professionals,21112,2853,1.38,546,travel creator making English-language content for young professionals
+CR0172,Creator 172,YouTube,travel,English,India,fitness enthusiasts,41724,18421,8.27,795,travel creator making English-language content for fitness enthusiasts
+CR0173,Creator 173,YouTube,food,Malayalam,Singapore,beauty consumers,7426,3581,4.69,500,food creator making Malayalam-language content for beauty consumers
+CR0174,Creator 174,TikTok,parenting,English,India,students,5510,3062,5.28,500,parenting creator making English-language content for students
+CR0175,Creator 175,YouTube,finance,Tamil,Malaysia,general,18177,11491,5.57,500,finance creator making Tamil-language content for general
+CR0176,Creator 176,TikTok,gaming,Malayalam,India,beauty consumers,112187,62051,4.24,3675,gaming creator making Malayalam-language content for beauty consumers
+CR0177,Creator 177,Instagram,fitness,Hindi,India,general,37020,21930,4.47,1231,fitness creator making Hindi-language content for general
+CR0178,Creator 178,Instagram,beauty,Telugu,Singapore,parents,20143,2641,4.34,500,beauty creator making Telugu-language content for parents
+CR0179,Creator 179,Instagram,education,Tamil,Singapore,students,133119,26266,3.49,3650,education creator making Tamil-language content for students
+CR0180,Creator 180,Instagram,education,Tamil,Singapore,young professionals,4811,806,3.71,500,education creator making Tamil-language content for young professionals
+CR0181,Creator 181,TikTok,gaming,Malayalam,India,fitness enthusiasts,51508,27625,4.97,1268,gaming creator making Malayalam-language content for fitness enthusiasts
+CR0182,Creator 182,Instagram,food,Telugu,India,young professionals,9136,5655,5.69,500,food creator making Telugu-language content for young professionals
+CR0183,Creator 183,YouTube,technology,Telugu,Singapore,fitness enthusiasts,121949,39976,1.43,1578,technology creator making Telugu-language content for fitness enthusiasts
+CR0184,Creator 184,TikTok,lifestyle,English,India,students,8363,3145,1.75,500,lifestyle creator making English-language content for students
+CR0185,Creator 185,YouTube,parenting,Hindi,Malaysia,parents,88341,36925,4.74,1261,parenting creator making Hindi-language content for parents
+CR0186,Creator 186,Instagram,food,Hindi,India,beauty consumers,139233,15926,1.91,3175,food creator making Hindi-language content for beauty consumers
+CR0187,Creator 187,TikTok,technology,Hindi,India,tech buyers,21346,5937,4.34,500,technology creator making Hindi-language content for tech buyers
+CR0188,Creator 188,Instagram,gaming,Tamil,India,tech buyers,41301,20644,4.26,851,gaming creator making Tamil-language content for tech buyers
+CR0189,Creator 189,TikTok,fitness,Tamil,India,fitness enthusiasts,88769,52371,0.81,1584,fitness creator making Tamil-language content for fitness enthusiasts
+CR0190,Creator 190,YouTube,fitness,Hindi,India,parents,173118,100964,3.64,4930,fitness creator making Hindi-language content for parents
+CR0191,Creator 191,Instagram,lifestyle,Hindi,India,young professionals,5019,1283,4.47,500,lifestyle creator making Hindi-language content for young professionals
+CR0192,Creator 192,YouTube,beauty,Telugu,India,tech buyers,6839,3724,2.47,500,beauty creator making Telugu-language content for tech buyers
+CR0193,Creator 193,YouTube,beauty,English,India,general,35590,7734,4.95,811,beauty creator making English-language content for general
+CR0194,Creator 194,Instagram,finance,Kannada,India,parents,45722,9808,1.2,1051,finance creator making Kannada-language content for parents
+CR0195,Creator 195,Instagram,gaming,Telugu,India,beauty consumers,2631,1544,0.2,500,gaming creator making Telugu-language content for beauty consumers
+CR0196,Creator 196,Instagram,travel,Hindi,India,general,20011,6247,5.13,500,travel creator making Hindi-language content for general
+CR0197,Creator 197,YouTube,technology,Malayalam,India,tech buyers,8076,5225,1.67,500,technology creator making Malayalam-language content for tech buyers
+CR0198,Creator 198,YouTube,lifestyle,English,India,fitness enthusiasts,21575,5964,3.85,500,lifestyle creator making English-language content for fitness enthusiasts
+CR0199,Creator 199,YouTube,gaming,Tamil,United Kingdom,beauty consumers,10583,5878,3.65,500,gaming creator making Tamil-language content for beauty consumers
+CR0200,Creator 200,YouTube,parenting,Tamil,Malaysia,beauty consumers,20585,9598,4.41,574,parenting creator making Tamil-language content for beauty consumers
+CR0201,Creator 201,YouTube,education,Telugu,United Kingdom,general,29330,6576,1.82,687,education creator making Telugu-language content for general
+CR0202,Creator 202,Instagram,gaming,Tamil,United Kingdom,students,5700,3685,5.74,500,gaming creator making Tamil-language content for students
+CR0203,Creator 203,YouTube,technology,Tamil,India,parents,10845,3164,1.77,500,technology creator making Tamil-language content for parents
+CR0204,Creator 204,TikTok,travel,English,India,fitness enthusiasts,4810,3079,3.11,500,travel creator making English-language content for fitness enthusiasts
+CR0205,Creator 205,Instagram,education,Tamil,India,tech buyers,7131,2473,5.9,500,education creator making Tamil-language content for tech buyers
+CR0206,Creator 206,YouTube,beauty,Tamil,Malaysia,beauty consumers,30471,7058,3.62,500,beauty creator making Tamil-language content for beauty consumers
+CR0207,Creator 207,Instagram,parenting,Tamil,United States,young professionals,44889,13805,1.53,500,parenting creator making Tamil-language content for young professionals
+CR0208,Creator 208,TikTok,fitness,Tamil,India,beauty consumers,94073,53017,5.9,1548,fitness creator making Tamil-language content for beauty consumers
+CR0209,Creator 209,Instagram,travel,Telugu,United Kingdom,tech buyers,9363,4916,4.17,500,travel creator making Telugu-language content for tech buyers
+CR0210,Creator 210,YouTube,parenting,Tamil,India,tech buyers,19257,9765,4.95,500,parenting creator making Tamil-language content for tech buyers
+CR0211,Creator 211,Instagram,travel,Tamil,India,fitness enthusiasts,21225,11218,3.93,658,travel creator making Tamil-language content for fitness enthusiasts
+CR0212,Creator 212,TikTok,finance,Malayalam,India,young professionals,18547,11639,4.78,524,finance creator making Malayalam-language content for young professionals
+CR0213,Creator 213,YouTube,gaming,Malayalam,United States,general,21632,2887,5.99,500,gaming creator making Malayalam-language content for general
+CR0214,Creator 214,Instagram,gaming,English,India,beauty consumers,21966,5529,4.4,521,gaming creator making English-language content for beauty consumers
+CR0215,Creator 215,YouTube,parenting,English,India,students,10562,5130,1.95,500,parenting creator making English-language content for students
+CR0216,Creator 216,YouTube,finance,Telugu,United Kingdom,students,13107,8109,3.99,500,finance creator making Telugu-language content for students
+CR0217,Creator 217,YouTube,beauty,Tamil,Malaysia,young professionals,13204,6921,4.82,500,beauty creator making Tamil-language content for young professionals
+CR0218,Creator 218,Instagram,technology,English,India,fitness enthusiasts,13802,5286,0.71,500,technology creator making English-language content for fitness enthusiasts
+CR0219,Creator 219,TikTok,lifestyle,Kannada,Singapore,tech buyers,20159,8261,0.79,500,lifestyle creator making Kannada-language content for tech buyers
+CR0220,Creator 220,TikTok,lifestyle,Tamil,India,young professionals,13257,1740,2.19,500,lifestyle creator making Tamil-language content for young professionals
+CR0221,Creator 221,Instagram,travel,Malayalam,India,tech buyers,27234,14200,3.41,672,travel creator making Malayalam-language content for tech buyers
+CR0222,Creator 222,YouTube,food,Telugu,India,general,4636,1606,5.57,500,food creator making Telugu-language content for general
+CR0223,Creator 223,Instagram,finance,Tamil,India,tech buyers,133119,62705,0.83,3848,finance creator making Tamil-language content for tech buyers
+CR0224,Creator 224,Instagram,food,English,India,fitness enthusiasts,67967,16866,3.27,1307,food creator making English-language content for fitness enthusiasts
+CR0225,Creator 225,YouTube,technology,Hindi,India,fitness enthusiasts,330311,157002,2.91,8249,technology creator making Hindi-language content for fitness enthusiasts
+CR0226,Creator 226,Instagram,food,Tamil,India,students,20621,6832,5.46,501,food creator making Tamil-language content for students
+CR0227,Creator 227,Instagram,parenting,English,India,general,26444,11456,6.76,791,parenting creator making English-language content for general
+CR0228,Creator 228,Instagram,technology,English,Malaysia,students,130837,46382,2.94,3741,technology creator making English-language content for students
+CR0229,Creator 229,Instagram,travel,English,United States,young professionals,3901,523,5.72,500,travel creator making English-language content for young professionals
+CR0230,Creator 230,YouTube,beauty,Hindi,India,general,16738,10317,3.98,500,beauty creator making Hindi-language content for general
+CR0231,Creator 231,Instagram,beauty,Telugu,Malaysia,tech buyers,15197,9061,1.32,500,beauty creator making Telugu-language content for tech buyers
+CR0232,Creator 232,TikTok,finance,Kannada,India,parents,2515,578,4.19,500,finance creator making Kannada-language content for parents
+CR0233,Creator 233,YouTube,finance,Telugu,India,beauty consumers,18034,3538,5.35,500,finance creator making Telugu-language content for beauty consumers
+CR0234,Creator 234,Instagram,food,English,India,beauty consumers,146186,78226,2.46,2477,food creator making English-language content for beauty consumers
+CR0235,Creator 235,YouTube,travel,English,India,fitness enthusiasts,26934,13656,3.81,500,travel creator making English-language content for fitness enthusiasts
+CR0236,Creator 236,YouTube,parenting,Tamil,India,general,4350,2230,1.14,500,parenting creator making Tamil-language content for general
+CR0237,Creator 237,Instagram,lifestyle,Tamil,India,young professionals,31760,3535,5.21,554,lifestyle creator making Tamil-language content for young professionals
+CR0238,Creator 238,YouTube,beauty,Malayalam,India,general,4882,590,2.57,500,beauty creator making Malayalam-language content for general
+CR0239,Creator 239,Instagram,fitness,Telugu,Malaysia,general,53119,10389,4.55,1086,fitness creator making Telugu-language content for general
+CR0240,Creator 240,YouTube,travel,Tamil,United States,parents,2973,847,6.91,500,travel creator making Tamil-language content for parents
+CR0241,Creator 241,Instagram,fitness,Telugu,India,general,27355,11706,4.6,725,fitness creator making Telugu-language content for general
+CR0242,Creator 242,YouTube,gaming,English,India,fitness enthusiasts,9890,1031,0.97,500,gaming creator making English-language content for fitness enthusiasts
+CR0243,Creator 243,TikTok,travel,Kannada,India,beauty consumers,7064,4308,5.81,500,travel creator making Kannada-language content for beauty consumers
+CR0244,Creator 244,Instagram,finance,Tamil,India,beauty consumers,28837,18262,4.85,709,finance creator making Tamil-language content for beauty consumers
+CR0245,Creator 245,Instagram,food,Tamil,United Kingdom,parents,800,134,5.74,500,food creator making Tamil-language content for parents
+CR0246,Creator 246,YouTube,finance,English,India,general,89173,56410,2.41,2551,finance creator making English-language content for general
+CR0247,Creator 247,TikTok,travel,English,India,beauty consumers,15303,3101,6.14,500,travel creator making English-language content for beauty consumers
+CR0248,Creator 248,YouTube,food,Tamil,India,beauty consumers,9683,4599,4.34,500,food creator making Tamil-language content for beauty consumers
+CR0249,Creator 249,Instagram,fitness,English,India,students,8557,4361,7.2,500,fitness creator making English-language content for students
+CR0250,Creator 250,Instagram,education,Malayalam,India,general,7493,3378,2.4,500,education creator making Malayalam-language content for general
+CR0251,Creator 251,YouTube,technology,English,India,fitness enthusiasts,18554,4515,4.93,500,technology creator making English-language content for fitness enthusiasts
+CR0252,Creator 252,YouTube,food,Tamil,India,students,17107,5012,6.74,500,food creator making Tamil-language content for students
+CR0253,Creator 253,YouTube,fitness,Hindi,India,parents,42700,12612,3.36,815,fitness creator making Hindi-language content for parents
+CR0254,Creator 254,Instagram,lifestyle,Tamil,United States,parents,10073,5300,2.16,500,lifestyle creator making Tamil-language content for parents
+CR0255,Creator 255,Instagram,finance,Tamil,India,tech buyers,38208,23292,4.06,1288,finance creator making Tamil-language content for tech buyers
+CR0256,Creator 256,YouTube,finance,Malayalam,India,parents,32520,2902,5.88,500,finance creator making Malayalam-language content for parents
+CR0257,Creator 257,YouTube,beauty,English,India,general,187917,116299,2.78,3407,beauty creator making English-language content for general
+CR0258,Creator 258,Instagram,finance,Malayalam,India,general,42112,9582,3.02,737,finance creator making Malayalam-language content for general
+CR0259,Creator 259,YouTube,lifestyle,English,India,parents,1221,777,3.48,500,lifestyle creator making English-language content for parents
+CR0260,Creator 260,YouTube,finance,English,United States,fitness enthusiasts,56803,26393,5.69,895,finance creator making English-language content for fitness enthusiasts
+CR0261,Creator 261,YouTube,gaming,Malayalam,India,parents,10117,4107,2.71,500,gaming creator making Malayalam-language content for parents
+CR0262,Creator 262,TikTok,travel,Telugu,India,students,5952,3010,8.49,500,travel creator making Telugu-language content for students
+CR0263,Creator 263,Instagram,food,English,India,fitness enthusiasts,12171,3343,2.03,500,food creator making English-language content for fitness enthusiasts
+CR0264,Creator 264,YouTube,fitness,Tamil,India,students,73808,17035,5.0,541,fitness creator making Tamil-language content for students
+CR0265,Creator 265,YouTube,beauty,English,India,young professionals,25977,7781,4.15,500,beauty creator making English-language content for young professionals
+CR0266,Creator 266,YouTube,beauty,English,United States,tech buyers,6459,3935,5.73,500,beauty creator making English-language content for tech buyers
+CR0267,Creator 267,YouTube,finance,Telugu,Singapore,tech buyers,30466,9980,4.4,755,finance creator making Telugu-language content for tech buyers
+CR0268,Creator 268,Instagram,parenting,Tamil,United States,beauty consumers,3043,405,4.58,500,parenting creator making Tamil-language content for beauty consumers
+CR0269,Creator 269,Instagram,travel,Tamil,India,tech buyers,121907,28925,1.6,1910,travel creator making Tamil-language content for tech buyers
+CR0270,Creator 270,YouTube,lifestyle,English,India,parents,42735,10004,4.29,1118,lifestyle creator making English-language content for parents
+CR0271,Creator 271,YouTube,food,Hindi,United Kingdom,young professionals,9599,1598,4.16,500,food creator making Hindi-language content for young professionals
+CR0272,Creator 272,Instagram,gaming,Tamil,India,beauty consumers,27247,17207,3.63,842,gaming creator making Tamil-language content for beauty consumers
+CR0273,Creator 273,Instagram,fitness,Hindi,India,fitness enthusiasts,35135,21427,4.06,515,fitness creator making Hindi-language content for fitness enthusiasts
+CR0274,Creator 274,YouTube,technology,Hindi,Singapore,tech buyers,8233,3062,3.65,500,technology creator making Hindi-language content for tech buyers
+CR0275,Creator 275,YouTube,beauty,English,India,young professionals,31506,13073,4.7,788,beauty creator making English-language content for young professionals
+CR0276,Creator 276,TikTok,beauty,Kannada,India,general,108698,14133,3.71,810,beauty creator making Kannada-language content for general
+CR0277,Creator 277,Instagram,gaming,Tamil,India,general,9150,1723,3.75,500,gaming creator making Tamil-language content for general
+CR0278,Creator 278,Instagram,technology,Kannada,United Kingdom,fitness enthusiasts,48701,22091,7.38,578,technology creator making Kannada-language content for fitness enthusiasts
+CR0279,Creator 279,YouTube,lifestyle,Tamil,India,parents,21161,8172,7.22,500,lifestyle creator making Tamil-language content for parents
+CR0280,Creator 280,Instagram,technology,English,United States,young professionals,29701,12990,3.93,537,technology creator making English-language content for young professionals
+CR0281,Creator 281,YouTube,beauty,Telugu,India,fitness enthusiasts,27022,10201,5.82,774,beauty creator making Telugu-language content for fitness enthusiasts
+CR0282,Creator 282,Instagram,travel,Tamil,India,beauty consumers,60412,8028,6.14,1048,travel creator making Tamil-language content for beauty consumers
+CR0283,Creator 283,TikTok,lifestyle,Malayalam,India,beauty consumers,11537,4950,4.34,500,lifestyle creator making Malayalam-language content for beauty consumers
+CR0284,Creator 284,YouTube,finance,Tamil,United States,young professionals,28956,13018,7.48,549,finance creator making Tamil-language content for young professionals
+CR0285,Creator 285,TikTok,gaming,English,United States,students,8416,4339,4.14,500,gaming creator making English-language content for students
+CR0286,Creator 286,YouTube,beauty,Tamil,United States,parents,4901,502,4.94,500,beauty creator making Tamil-language content for parents
+CR0287,Creator 287,Instagram,fitness,English,India,tech buyers,7390,2638,5.21,500,fitness creator making English-language content for tech buyers
+CR0288,Creator 288,YouTube,gaming,Tamil,India,beauty consumers,84734,10581,0.63,1130,gaming creator making Tamil-language content for beauty consumers
+CR0289,Creator 289,YouTube,technology,Tamil,India,tech buyers,49007,29598,1.43,626,technology creator making Tamil-language content for tech buyers
+CR0290,Creator 290,Instagram,fitness,English,India,beauty consumers,28166,5433,2.28,521,fitness creator making English-language content for beauty consumers
+CR0291,Creator 291,Instagram,fitness,English,India,students,86740,41042,4.89,2532,fitness creator making English-language content for students
+CR0292,Creator 292,TikTok,gaming,Tamil,United Kingdom,students,40686,9935,6.0,918,gaming creator making Tamil-language content for students
+CR0293,Creator 293,Instagram,fitness,English,United States,students,13581,7694,3.46,500,fitness creator making English-language content for students
+CR0294,Creator 294,Instagram,education,Tamil,Singapore,general,225412,37322,4.74,5355,education creator making Tamil-language content for general
+CR0295,Creator 295,Instagram,parenting,English,India,fitness enthusiasts,43068,13720,3.77,682,parenting creator making English-language content for fitness enthusiasts
+CR0296,Creator 296,YouTube,finance,Hindi,United States,young professionals,90335,14947,0.62,2228,finance creator making Hindi-language content for young professionals
+CR0297,Creator 297,TikTok,education,Telugu,India,young professionals,8626,732,4.59,500,education creator making Telugu-language content for young professionals
+CR0298,Creator 298,Instagram,technology,Tamil,Malaysia,students,81383,41583,6.42,1511,technology creator making Tamil-language content for students
+CR0299,Creator 299,Instagram,fitness,Telugu,Singapore,young professionals,19874,7879,6.45,500,fitness creator making Telugu-language content for young professionals
+CR0300,Creator 300,Instagram,beauty,Kannada,Malaysia,young professionals,6229,1554,4.43,500,beauty creator making Kannada-language content for young professionals
+CR0301,Creator 301,YouTube,technology,English,Singapore,general,16234,2291,8.0,500,technology creator making English-language content for general
+CR0302,Creator 302,YouTube,education,Telugu,United States,young professionals,6865,928,4.03,500,education creator making Telugu-language content for young professionals
+CR0303,Creator 303,Instagram,beauty,English,Malaysia,tech buyers,25566,12513,3.79,594,beauty creator making English-language content for tech buyers
+CR0304,Creator 304,YouTube,technology,Tamil,India,fitness enthusiasts,3827,1955,5.88,500,technology creator making Tamil-language content for fitness enthusiasts
+CR0305,Creator 305,Instagram,lifestyle,Hindi,United States,fitness enthusiasts,8772,2723,3.54,500,lifestyle creator making Hindi-language content for fitness enthusiasts
+CR0306,Creator 306,TikTok,beauty,English,India,tech buyers,33635,4630,2.9,500,beauty creator making English-language content for tech buyers
+CR0307,Creator 307,Instagram,fitness,Hindi,India,fitness enthusiasts,8637,4304,1.65,500,fitness creator making Hindi-language content for fitness enthusiasts
+CR0308,Creator 308,YouTube,lifestyle,Tamil,India,beauty consumers,49447,18604,1.41,827,lifestyle creator making Tamil-language content for beauty consumers
+CR0309,Creator 309,Instagram,parenting,English,India,beauty consumers,274557,58716,2.77,2343,parenting creator making English-language content for beauty consumers
+CR0310,Creator 310,TikTok,lifestyle,Kannada,India,tech buyers,18416,5694,2.73,500,lifestyle creator making Kannada-language content for tech buyers
+CR0311,Creator 311,TikTok,gaming,Hindi,United Kingdom,young professionals,7963,2900,5.43,500,gaming creator making Hindi-language content for young professionals
+CR0312,Creator 312,Instagram,lifestyle,Hindi,India,students,13156,8079,5.01,500,lifestyle creator making Hindi-language content for students
+CR0313,Creator 313,Instagram,beauty,Tamil,India,students,2925,1628,2.31,500,beauty creator making Tamil-language content for students
+CR0314,Creator 314,TikTok,fitness,Tamil,Singapore,general,14667,6408,5.19,500,fitness creator making Tamil-language content for general
+CR0315,Creator 315,TikTok,beauty,Tamil,India,fitness enthusiasts,8571,3808,1.15,500,beauty creator making Tamil-language content for fitness enthusiasts
+CR0316,Creator 316,YouTube,technology,English,India,parents,31258,11582,4.05,616,technology creator making English-language content for parents
+CR0317,Creator 317,Instagram,lifestyle,English,India,parents,31706,5661,5.42,500,lifestyle creator making English-language content for parents
+CR0318,Creator 318,Instagram,finance,Tamil,India,beauty consumers,21154,10045,3.38,500,finance creator making Tamil-language content for beauty consumers
+CR0319,Creator 319,YouTube,gaming,English,India,fitness enthusiasts,98753,36977,6.48,2163,gaming creator making English-language content for fitness enthusiasts
+CR0320,Creator 320,Instagram,education,Telugu,India,beauty consumers,31214,12417,4.39,795,education creator making Telugu-language content for beauty consumers
+CR0321,Creator 321,YouTube,lifestyle,Tamil,India,beauty consumers,19005,10578,3.88,500,lifestyle creator making Tamil-language content for beauty consumers
+CR0322,Creator 322,Instagram,beauty,Malayalam,India,young professionals,84516,26145,5.92,2073,beauty creator making Malayalam-language content for young professionals
+CR0323,Creator 323,YouTube,finance,Kannada,India,beauty consumers,8951,2791,1.77,500,finance creator making Kannada-language content for beauty consumers
+CR0324,Creator 324,Instagram,finance,Tamil,India,tech buyers,60210,9764,3.47,1140,finance creator making Tamil-language content for tech buyers
+CR0325,Creator 325,YouTube,parenting,English,United Kingdom,tech buyers,21494,11188,1.07,500,parenting creator making English-language content for tech buyers
+CR0326,Creator 326,Instagram,parenting,Kannada,India,beauty consumers,135082,84692,2.87,2354,parenting creator making Kannada-language content for beauty consumers
+CR0327,Creator 327,TikTok,fitness,English,India,parents,40353,8778,4.9,500,fitness creator making English-language content for parents
+CR0328,Creator 328,Instagram,technology,Tamil,United States,general,37739,7520,2.75,909,technology creator making Tamil-language content for general
+CR0329,Creator 329,Instagram,beauty,Telugu,United Kingdom,beauty consumers,35982,20960,5.69,999,beauty creator making Telugu-language content for beauty consumers
+CR0330,Creator 330,YouTube,technology,Kannada,India,parents,291401,146985,3.87,5982,technology creator making Kannada-language content for parents
+CR0331,Creator 331,Instagram,finance,Tamil,United Kingdom,young professionals,80340,24586,6.32,1306,finance creator making Tamil-language content for young professionals
+CR0332,Creator 332,YouTube,gaming,English,India,students,19419,6725,2.2,500,gaming creator making English-language content for students
+CR0333,Creator 333,Instagram,beauty,English,United Kingdom,general,11149,6089,5.6,500,beauty creator making English-language content for general
+CR0334,Creator 334,YouTube,education,Hindi,India,fitness enthusiasts,31044,15563,3.97,500,education creator making Hindi-language content for fitness enthusiasts
+CR0335,Creator 335,Instagram,fitness,Tamil,India,parents,7830,5031,4.21,500,fitness creator making Tamil-language content for parents
+CR0336,Creator 336,Instagram,parenting,Telugu,India,beauty consumers,19033,7302,3.32,500,parenting creator making Telugu-language content for beauty consumers
+CR0337,Creator 337,YouTube,fitness,Tamil,India,young professionals,20335,9077,3.43,632,fitness creator making Tamil-language content for young professionals
+CR0338,Creator 338,Instagram,parenting,Hindi,United Kingdom,young professionals,106892,68923,2.77,1383,parenting creator making Hindi-language content for young professionals
+CR0339,Creator 339,YouTube,gaming,Tamil,Singapore,parents,7634,3834,3.68,500,gaming creator making Tamil-language content for parents
+CR0340,Creator 340,YouTube,finance,English,India,parents,23792,6434,5.24,500,finance creator making English-language content for parents
+CR0341,Creator 341,YouTube,education,Telugu,United States,fitness enthusiasts,147361,82715,0.2,2250,education creator making Telugu-language content for fitness enthusiasts
+CR0342,Creator 342,Instagram,finance,Telugu,India,young professionals,4409,435,1.57,500,finance creator making Telugu-language content for young professionals
+CR0343,Creator 343,Instagram,food,English,Singapore,tech buyers,22633,10820,6.3,565,food creator making English-language content for tech buyers
+CR0344,Creator 344,Instagram,travel,Hindi,Malaysia,parents,65237,40351,5.45,1440,travel creator making Hindi-language content for parents
+CR0345,Creator 345,Instagram,beauty,English,India,tech buyers,34461,3716,4.12,730,beauty creator making English-language content for tech buyers
+CR0346,Creator 346,YouTube,travel,English,United States,students,27782,3858,5.76,531,travel creator making English-language content for students
+CR0347,Creator 347,Instagram,finance,Tamil,Malaysia,general,12416,3720,2.84,500,finance creator making Tamil-language content for general
+CR0348,Creator 348,TikTok,education,Telugu,India,fitness enthusiasts,177465,49934,2.76,3934,education creator making Telugu-language content for fitness enthusiasts
+CR0349,Creator 349,YouTube,food,Telugu,India,fitness enthusiasts,9128,2003,2.95,500,food creator making Telugu-language content for fitness enthusiasts
+CR0350,Creator 350,YouTube,beauty,Hindi,India,beauty consumers,20094,2065,2.62,500,beauty creator making Hindi-language content for beauty consumers
+CR0351,Creator 351,TikTok,technology,Kannada,United States,beauty consumers,6141,2868,4.7,500,technology creator making Kannada-language content for beauty consumers
+CR0352,Creator 352,Instagram,beauty,English,United Kingdom,young professionals,67676,33819,3.16,1040,beauty creator making English-language content for young professionals
+CR0353,Creator 353,Instagram,fitness,Tamil,India,fitness enthusiasts,47250,11064,3.95,694,fitness creator making Tamil-language content for fitness enthusiasts
+CR0354,Creator 354,Instagram,finance,Tamil,India,young professionals,7612,3159,3.21,500,finance creator making Tamil-language content for young professionals
+CR0355,Creator 355,Instagram,beauty,Kannada,India,general,22813,5997,3.53,538,beauty creator making Kannada-language content for general
+CR0356,Creator 356,YouTube,parenting,English,India,parents,52941,13822,3.81,500,parenting creator making English-language content for parents
+CR0357,Creator 357,YouTube,beauty,Tamil,India,beauty consumers,7869,3416,4.36,500,beauty creator making Tamil-language content for beauty consumers
+CR0358,Creator 358,YouTube,technology,Tamil,India,young professionals,11737,4478,3.57,500,technology creator making Tamil-language content for young professionals
+CR0359,Creator 359,YouTube,food,Tamil,India,general,57861,5427,1.89,1453,food creator making Tamil-language content for general
+CR0360,Creator 360,YouTube,travel,Kannada,India,fitness enthusiasts,202495,130086,0.3,2952,travel creator making Kannada-language content for fitness enthusiasts
+CR0361,Creator 361,Instagram,technology,English,Malaysia,parents,42927,7085,5.03,1176,technology creator making English-language content for parents
+CR0362,Creator 362,Instagram,food,English,India,beauty consumers,47451,22847,3.2,640,food creator making English-language content for beauty consumers
+CR0363,Creator 363,YouTube,lifestyle,Kannada,India,young professionals,20365,2029,6.25,500,lifestyle creator making Kannada-language content for young professionals
+CR0364,Creator 364,Instagram,gaming,English,India,students,16472,7739,2.0,500,gaming creator making English-language content for students
+CR0365,Creator 365,YouTube,parenting,English,India,general,43768,20137,4.3,887,parenting creator making English-language content for general
+CR0366,Creator 366,YouTube,technology,English,India,beauty consumers,27848,15162,2.22,500,technology creator making English-language content for beauty consumers
+CR0367,Creator 367,TikTok,education,Tamil,India,beauty consumers,57828,9688,4.2,1306,education creator making Tamil-language content for beauty consumers
+CR0368,Creator 368,TikTok,gaming,Telugu,India,young professionals,9507,2104,4.06,500,gaming creator making Telugu-language content for young professionals
+CR0369,Creator 369,YouTube,technology,Hindi,India,young professionals,75031,19707,2.91,988,technology creator making Hindi-language content for young professionals
+CR0370,Creator 370,Instagram,beauty,Hindi,United States,students,15210,5601,5.91,500,beauty creator making Hindi-language content for students
+CR0371,Creator 371,YouTube,technology,Tamil,India,fitness enthusiasts,24311,3323,4.74,500,technology creator making Tamil-language content for fitness enthusiasts
+CR0372,Creator 372,Instagram,parenting,English,India,young professionals,10611,5632,2.29,500,parenting creator making English-language content for young professionals
+CR0373,Creator 373,Instagram,lifestyle,Telugu,India,fitness enthusiasts,5151,3287,3.08,500,lifestyle creator making Telugu-language content for fitness enthusiasts
+CR0374,Creator 374,Instagram,education,Tamil,India,students,3190,1327,3.6,500,education creator making Tamil-language content for students
+CR0375,Creator 375,YouTube,food,Kannada,India,tech buyers,20912,4993,6.6,500,food creator making Kannada-language content for tech buyers
+CR0376,Creator 376,YouTube,fitness,Tamil,United Kingdom,tech buyers,17348,7031,1.01,500,fitness creator making Tamil-language content for tech buyers
+CR0377,Creator 377,TikTok,gaming,Tamil,United States,parents,5656,660,4.66,500,gaming creator making Tamil-language content for parents
+CR0378,Creator 378,Instagram,parenting,Kannada,India,students,251729,111329,4.34,4528,parenting creator making Kannada-language content for students
+CR0379,Creator 379,Instagram,fitness,Tamil,United States,fitness enthusiasts,9878,2190,3.28,500,fitness creator making Tamil-language content for fitness enthusiasts
+CR0380,Creator 380,Instagram,lifestyle,Tamil,India,general,5326,886,6.33,500,lifestyle creator making Tamil-language content for general
+CR0381,Creator 381,Instagram,technology,Tamil,India,beauty consumers,158183,52870,6.39,2693,technology creator making Tamil-language content for beauty consumers
+CR0382,Creator 382,YouTube,travel,Malayalam,India,beauty consumers,16576,8162,5.23,500,travel creator making Malayalam-language content for beauty consumers
+CR0383,Creator 383,Instagram,finance,Telugu,India,young professionals,82402,11942,5.31,1621,finance creator making Telugu-language content for young professionals
+CR0384,Creator 384,TikTok,food,Malayalam,Malaysia,general,12686,7660,5.79,500,food creator making Malayalam-language content for general
+CR0385,Creator 385,TikTok,parenting,Tamil,India,students,136819,41381,1.66,1806,parenting creator making Tamil-language content for students
+CR0386,Creator 386,YouTube,finance,Hindi,Singapore,tech buyers,9254,4306,4.05,500,finance creator making Hindi-language content for tech buyers
+CR0387,Creator 387,YouTube,gaming,Hindi,India,young professionals,28566,12973,2.95,563,gaming creator making Hindi-language content for young professionals
+CR0388,Creator 388,YouTube,parenting,English,India,young professionals,30668,8263,4.93,500,parenting creator making English-language content for young professionals
+CR0389,Creator 389,YouTube,beauty,Malayalam,India,students,8612,5322,3.52,500,beauty creator making Malayalam-language content for students
+CR0390,Creator 390,YouTube,travel,English,India,tech buyers,94392,10608,7.91,2055,travel creator making English-language content for tech buyers
+CR0391,Creator 391,TikTok,education,Hindi,India,students,265194,117881,4.09,6852,education creator making Hindi-language content for students
+CR0392,Creator 392,YouTube,technology,English,India,fitness enthusiasts,24094,3627,2.31,500,technology creator making English-language content for fitness enthusiasts
+CR0393,Creator 393,Instagram,food,Hindi,United States,parents,14165,8919,2.46,500,food creator making Hindi-language content for parents
+CR0394,Creator 394,Instagram,education,Hindi,Malaysia,young professionals,71537,30357,6.94,2222,education creator making Hindi-language content for young professionals
+CR0395,Creator 395,TikTok,fitness,English,India,students,7567,2178,5.37,500,fitness creator making English-language content for students
+CR0396,Creator 396,YouTube,lifestyle,Malayalam,India,young professionals,5499,692,4.55,500,lifestyle creator making Malayalam-language content for young professionals
+CR0397,Creator 397,Instagram,gaming,English,India,students,11307,5415,2.96,500,gaming creator making English-language content for students
+CR0398,Creator 398,TikTok,travel,Hindi,India,beauty consumers,32178,19498,4.14,1037,travel creator making Hindi-language content for beauty consumers
+CR0399,Creator 399,Instagram,beauty,Hindi,India,students,25838,3471,3.41,500,beauty creator making Hindi-language content for students
+CR0400,Creator 400,YouTube,lifestyle,English,United Kingdom,tech buyers,19582,1711,3.01,500,lifestyle creator making English-language content for tech buyers
+CR0401,Creator 401,Instagram,beauty,Tamil,India,fitness enthusiasts,21354,11541,4.56,555,beauty creator making Tamil-language content for fitness enthusiasts
+CR0402,Creator 402,TikTok,beauty,Tamil,India,students,9967,1365,3.8,500,beauty creator making Tamil-language content for students
+CR0403,Creator 403,YouTube,finance,English,India,parents,53003,21248,4.71,1549,finance creator making English-language content for parents
+CR0404,Creator 404,YouTube,beauty,Hindi,India,tech buyers,53739,18774,4.26,1591,beauty creator making Hindi-language content for tech buyers
+CR0405,Creator 405,YouTube,beauty,Tamil,United States,tech buyers,37685,9646,1.95,726,beauty creator making Tamil-language content for tech buyers
+CR0406,Creator 406,TikTok,education,Telugu,India,general,10596,2225,2.16,500,education creator making Telugu-language content for general
+CR0407,Creator 407,Instagram,fitness,Telugu,India,fitness enthusiasts,82234,39855,3.89,2118,fitness creator making Telugu-language content for fitness enthusiasts
+CR0408,Creator 408,YouTube,parenting,Tamil,India,students,86696,8596,3.69,914,parenting creator making Tamil-language content for students
+CR0409,Creator 409,Instagram,technology,Telugu,India,parents,22680,7416,2.66,500,technology creator making Telugu-language content for parents
+CR0410,Creator 410,TikTok,education,Tamil,India,beauty consumers,77042,27987,4.33,1463,education creator making Tamil-language content for beauty consumers
+CR0411,Creator 411,Instagram,lifestyle,Tamil,India,beauty consumers,22648,2423,2.25,500,lifestyle creator making Tamil-language content for beauty consumers
+CR0412,Creator 412,Instagram,lifestyle,Tamil,India,beauty consumers,66186,28558,5.02,1051,lifestyle creator making Tamil-language content for beauty consumers
+CR0413,Creator 413,Instagram,finance,Telugu,United Kingdom,parents,9130,2989,4.59,500,finance creator making Telugu-language content for parents
+CR0414,Creator 414,YouTube,education,Tamil,India,tech buyers,30143,6243,4.13,810,education creator making Tamil-language content for tech buyers
+CR0415,Creator 415,YouTube,technology,English,United Kingdom,parents,161288,94092,2.29,2932,technology creator making English-language content for parents
+CR0416,Creator 416,Instagram,technology,Hindi,India,students,38346,17753,4.14,1052,technology creator making Hindi-language content for students
+CR0417,Creator 417,Instagram,travel,English,India,students,15775,4219,2.5,500,travel creator making English-language content for students
+CR0418,Creator 418,YouTube,technology,Hindi,India,fitness enthusiasts,58917,16340,6.16,1180,technology creator making Hindi-language content for fitness enthusiasts
+CR0419,Creator 419,TikTok,fitness,Tamil,India,fitness enthusiasts,7459,2471,4.62,500,fitness creator making Tamil-language content for fitness enthusiasts
+CR0420,Creator 420,YouTube,finance,Kannada,United Kingdom,parents,22695,13657,4.43,500,finance creator making Kannada-language content for parents
+CR0421,Creator 421,Instagram,gaming,Kannada,India,general,44061,20734,5.26,975,gaming creator making Kannada-language content for general
+CR0422,Creator 422,YouTube,fitness,Kannada,India,fitness enthusiasts,28537,2744,5.49,591,fitness creator making Kannada-language content for fitness enthusiasts
+CR0423,Creator 423,TikTok,food,Malayalam,United Kingdom,fitness enthusiasts,16981,9434,5.37,500,food creator making Malayalam-language content for fitness enthusiasts
+CR0424,Creator 424,Instagram,fitness,Tamil,India,young professionals,18025,2477,4.15,500,fitness creator making Tamil-language content for young professionals
+CR0425,Creator 425,TikTok,gaming,Malayalam,India,young professionals,42667,22548,1.76,520,gaming creator making Malayalam-language content for young professionals
+CR0426,Creator 426,TikTok,technology,Malayalam,United Kingdom,parents,18634,7105,4.47,500,technology creator making Malayalam-language content for parents
+CR0427,Creator 427,YouTube,technology,Hindi,India,general,9637,2132,0.2,500,technology creator making Hindi-language content for general
+CR0428,Creator 428,TikTok,travel,English,India,fitness enthusiasts,22826,4270,4.52,500,travel creator making English-language content for fitness enthusiasts
+CR0429,Creator 429,YouTube,gaming,Hindi,India,tech buyers,34494,18914,3.82,912,gaming creator making Hindi-language content for tech buyers
+CR0430,Creator 430,Instagram,gaming,Telugu,United States,tech buyers,49960,29691,2.75,617,gaming creator making Telugu-language content for tech buyers
+CR0431,Creator 431,YouTube,fitness,English,Malaysia,parents,22370,11901,4.16,550,fitness creator making English-language content for parents
+CR0432,Creator 432,Instagram,travel,English,Singapore,general,9749,3055,5.08,500,travel creator making English-language content for general
+CR0433,Creator 433,Instagram,beauty,Hindi,United States,general,38516,18564,3.13,1104,beauty creator making Hindi-language content for general
+CR0434,Creator 434,TikTok,fitness,Tamil,India,tech buyers,15967,5813,4.94,500,fitness creator making Tamil-language content for tech buyers
+CR0435,Creator 435,YouTube,travel,Malayalam,India,tech buyers,28249,14470,2.54,545,travel creator making Malayalam-language content for tech buyers
+CR0436,Creator 436,Instagram,gaming,Telugu,India,fitness enthusiasts,24567,9906,5.8,500,gaming creator making Telugu-language content for fitness enthusiasts
+CR0437,Creator 437,Instagram,gaming,Telugu,India,fitness enthusiasts,210808,133571,0.39,6897,gaming creator making Telugu-language content for fitness enthusiasts
+CR0438,Creator 438,Instagram,lifestyle,English,India,tech buyers,11509,6616,3.77,500,lifestyle creator making English-language content for tech buyers
+CR0439,Creator 439,Instagram,parenting,Tamil,India,young professionals,86847,30926,3.57,817,parenting creator making Tamil-language content for young professionals
+CR0440,Creator 440,TikTok,beauty,English,India,tech buyers,226839,94714,4.99,2871,beauty creator making English-language content for tech buyers
+CR0441,Creator 441,YouTube,food,Kannada,United Kingdom,young professionals,27367,9535,2.23,514,food creator making Kannada-language content for young professionals
+CR0442,Creator 442,Instagram,gaming,Telugu,Singapore,general,124771,46908,0.48,1880,gaming creator making Telugu-language content for general
+CR0443,Creator 443,TikTok,food,Tamil,United Kingdom,general,2083,764,5.91,500,food creator making Tamil-language content for general
+CR0444,Creator 444,YouTube,education,Tamil,India,general,66535,16957,5.3,1569,education creator making Tamil-language content for general
+CR0445,Creator 445,Instagram,travel,Tamil,United States,parents,17600,3982,6.36,500,travel creator making Tamil-language content for parents
+CR0446,Creator 446,Instagram,travel,English,India,tech buyers,18396,9867,5.15,500,travel creator making English-language content for tech buyers
+CR0447,Creator 447,TikTok,education,Kannada,Singapore,parents,45604,5904,4.97,500,education creator making Kannada-language content for parents
+CR0448,Creator 448,TikTok,beauty,Tamil,India,general,36690,5654,4.87,599,beauty creator making Tamil-language content for general
+CR0449,Creator 449,Instagram,beauty,English,Singapore,young professionals,16998,3547,2.82,500,beauty creator making English-language content for young professionals
+CR0450,Creator 450,Instagram,travel,Kannada,India,fitness enthusiasts,146585,25073,4.76,1849,travel creator making Kannada-language content for fitness enthusiasts
+CR0451,Creator 451,Instagram,technology,Hindi,India,tech buyers,65680,26243,4.47,1869,technology creator making Hindi-language content for tech buyers
+CR0452,Creator 452,Instagram,finance,Tamil,India,beauty consumers,154246,48886,1.66,3194,finance creator making Tamil-language content for beauty consumers
+CR0453,Creator 453,YouTube,travel,Tamil,United States,general,70677,6871,3.88,1583,travel creator making Tamil-language content for general
+CR0454,Creator 454,YouTube,beauty,Tamil,India,parents,5741,3270,6.27,500,beauty creator making Tamil-language content for parents
+CR0455,Creator 455,YouTube,lifestyle,Tamil,Singapore,students,56081,17818,4.74,1520,lifestyle creator making Tamil-language content for students
+CR0456,Creator 456,YouTube,beauty,Tamil,India,fitness enthusiasts,30150,9626,2.19,500,beauty creator making Tamil-language content for fitness enthusiasts
+CR0457,Creator 457,YouTube,lifestyle,Malayalam,India,fitness enthusiasts,252000,69837,3.1,6187,lifestyle creator making Malayalam-language content for fitness enthusiasts
+CR0458,Creator 458,YouTube,lifestyle,English,India,students,40756,7233,7.94,612,lifestyle creator making English-language content for students
+CR0459,Creator 459,YouTube,fitness,Hindi,India,beauty consumers,392572,116752,4.99,3265,fitness creator making Hindi-language content for beauty consumers
+CR0460,Creator 460,TikTok,parenting,English,India,parents,23277,2490,3.05,500,parenting creator making English-language content for parents
+CR0461,Creator 461,Instagram,parenting,Hindi,United States,fitness enthusiasts,65579,10969,3.15,839,parenting creator making Hindi-language content for fitness enthusiasts
+CR0462,Creator 462,Instagram,technology,Telugu,United Kingdom,tech buyers,81624,41627,7.23,2399,technology creator making Telugu-language content for tech buyers
+CR0463,Creator 463,Instagram,travel,English,United States,general,95720,35752,4.01,2615,travel creator making English-language content for general
+CR0464,Creator 464,Instagram,gaming,Malayalam,India,young professionals,5177,2647,6.7,500,gaming creator making Malayalam-language content for young professionals
+CR0465,Creator 465,YouTube,finance,English,India,beauty consumers,15490,7638,4.28,500,finance creator making English-language content for beauty consumers
+CR0466,Creator 466,YouTube,lifestyle,Malayalam,India,general,36320,17749,7.07,575,lifestyle creator making Malayalam-language content for general
+CR0467,Creator 467,YouTube,finance,English,India,general,34959,17767,1.83,728,finance creator making English-language content for general
+CR0468,Creator 468,YouTube,beauty,Tamil,United States,young professionals,44609,11881,1.3,500,beauty creator making Tamil-language content for young professionals
+CR0469,Creator 469,Instagram,beauty,Kannada,United Kingdom,parents,26678,11724,5.04,807,beauty creator making Kannada-language content for parents
+CR0470,Creator 470,YouTube,fitness,Kannada,United Kingdom,general,39799,4959,6.23,857,fitness creator making Kannada-language content for general
+CR0471,Creator 471,YouTube,food,Tamil,United States,young professionals,9816,5976,3.95,500,food creator making Tamil-language content for young professionals
+CR0472,Creator 472,Instagram,gaming,Hindi,United States,parents,9913,1660,3.85,500,gaming creator making Hindi-language content for parents
+CR0473,Creator 473,YouTube,education,Tamil,India,young professionals,52492,10381,4.32,673,education creator making Tamil-language content for young professionals
+CR0474,Creator 474,Instagram,finance,Tamil,India,fitness enthusiasts,33623,17986,5.24,790,finance creator making Tamil-language content for fitness enthusiasts
+CR0475,Creator 475,Instagram,fitness,Malayalam,India,parents,50374,12064,4.57,1092,fitness creator making Malayalam-language content for parents
+CR0476,Creator 476,TikTok,travel,English,India,students,14572,5692,6.52,500,travel creator making English-language content for students
+CR0477,Creator 477,Instagram,food,English,India,fitness enthusiasts,50341,17518,3.65,735,food creator making English-language content for fitness enthusiasts
+CR0478,Creator 478,TikTok,food,Hindi,India,young professionals,11771,5254,5.34,500,food creator making Hindi-language content for young professionals
+CR0479,Creator 479,YouTube,gaming,Tamil,India,fitness enthusiasts,5638,1361,1.52,500,gaming creator making Tamil-language content for fitness enthusiasts
+CR0480,Creator 480,Instagram,beauty,Tamil,India,young professionals,93452,30782,4.87,2194,beauty creator making Tamil-language content for young professionals
+CR0481,Creator 481,Instagram,education,Tamil,India,parents,45615,12076,2.8,883,education creator making Tamil-language content for parents
+CR0482,Creator 482,YouTube,lifestyle,English,Malaysia,young professionals,2892,428,6.23,500,lifestyle creator making English-language content for young professionals
+CR0483,Creator 483,TikTok,lifestyle,English,India,parents,13810,8304,6.52,500,lifestyle creator making English-language content for parents
+CR0484,Creator 484,Instagram,education,Hindi,India,tech buyers,3610,813,5.46,500,education creator making Hindi-language content for tech buyers
+CR0485,Creator 485,YouTube,parenting,Tamil,United Kingdom,fitness enthusiasts,75384,23221,2.95,795,parenting creator making Tamil-language content for fitness enthusiasts
+CR0486,Creator 486,Instagram,beauty,English,India,general,13281,7216,5.92,500,beauty creator making English-language content for general
+CR0487,Creator 487,Instagram,lifestyle,English,India,beauty consumers,73322,22412,4.1,1047,lifestyle creator making English-language content for beauty consumers
+CR0488,Creator 488,Instagram,food,Tamil,India,young professionals,31907,8845,2.75,876,food creator making Tamil-language content for young professionals
+CR0489,Creator 489,YouTube,education,English,India,students,47328,18122,3.72,1024,education creator making English-language content for students
+CR0490,Creator 490,YouTube,food,Tamil,India,parents,26873,9773,4.06,500,food creator making Tamil-language content for parents
+CR0491,Creator 491,YouTube,lifestyle,Malayalam,India,young professionals,5131,1023,4.34,500,lifestyle creator making Malayalam-language content for young professionals
+CR0492,Creator 492,TikTok,gaming,Kannada,India,beauty consumers,6021,718,2.42,500,gaming creator making Kannada-language content for beauty consumers
+CR0493,Creator 493,YouTube,fitness,English,India,parents,34971,16647,4.23,565,fitness creator making English-language content for parents
+CR0494,Creator 494,YouTube,technology,English,India,general,15300,9542,4.68,500,technology creator making English-language content for general
+CR0495,Creator 495,Instagram,parenting,Tamil,India,students,100825,36426,2.88,2294,parenting creator making Tamil-language content for students
+CR0496,Creator 496,TikTok,education,Kannada,Malaysia,parents,4790,984,2.62,500,education creator making Kannada-language content for parents
+CR0497,Creator 497,Instagram,finance,Tamil,India,students,35214,7588,5.19,500,finance creator making Tamil-language content for students
+CR0498,Creator 498,YouTube,gaming,English,India,tech buyers,7295,4125,1.96,500,gaming creator making English-language content for tech buyers
+CR0499,Creator 499,YouTube,food,Kannada,India,young professionals,18384,4234,3.22,500,food creator making Kannada-language content for young professionals
+CR0500,Creator 500,YouTube,gaming,Tamil,India,young professionals,52350,6806,5.53,1089,gaming creator making Tamil-language content for young professionals
